@@ -11,6 +11,14 @@ align-items: center;
     display: flex;
 }
 
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
 .fixed-top {
     position: fixed;
     top: 0;

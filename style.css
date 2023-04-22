@@ -48,6 +48,11 @@ border: 4px inset;
     padding-bottom: 4rem;
 }
 
+.header {
+    text-align: center;
+    font-size: x-large;
+    font-family: "Times New Roman";
+
 .h1 {
     text-align: center;
     font-size: x-large;

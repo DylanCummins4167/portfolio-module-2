@@ -5,19 +5,8 @@ background color: black;
 }
 
 .navbar {
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-align-items: center;
-    display: flex;
-}
-
-.navbar-nav {
-    display: flex;
-    flex-direction: column;
-    padding-left: 0;
-    margin-bottom: 0;
-    list-style: none;
-}
+    margin-right: 20px;
+    text-align: right;
 
 .fixed-top {
     position: fixed;

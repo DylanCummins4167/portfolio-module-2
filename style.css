@@ -7,6 +7,8 @@ background color: black;
 .navbar {
     margin-right: 20px;
     text-align: right;
+    order: 1;
+}
 
 .fixed-top {
     position: fixed;

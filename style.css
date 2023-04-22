@@ -3,6 +3,14 @@ background color: black;
 .navbarScroll.navbarDark {
     background-color: black;
 }
+
+.navbar {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+align-items: center;
+    display: flex;
+}
+
 /* hero background image */
 .bgimage {
     height:100vh;

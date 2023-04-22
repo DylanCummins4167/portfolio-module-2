@@ -11,6 +11,14 @@ align-items: center;
     display: flex;
 }
 
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
 /* hero background image */
 .bgimage {
     height:100vh;

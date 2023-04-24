@@ -2,6 +2,8 @@ background color: black;
 
 border: 4px inset;
 
+p.solid {border-style: solid;}
+
 .navbarScroll.navbarDark {
     background-color: black;
 }

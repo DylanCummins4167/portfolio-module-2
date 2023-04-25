@@ -15,7 +15,7 @@ p.solid {border-style: solid;}
     margin-top: 25px;
     height: 50px;
     font-size: x-large;
-    object-fit: cover;
+    .fill {object-fit: fill;}
 }
 
 .navbar-expand-lg {

@@ -20,6 +20,10 @@ p.solid {border-style: solid;}
     
 }
 
+a:hover {
+  background-color: green;
+}
+
 .navbar-expand-lg {
     flex-wrap: nowrap;
     justify-content: flex-start;

@@ -23,7 +23,11 @@ p.solid {border-style: solid;}
 }
 
 /* hero background image */
-
+.img {
+     width: 200px;
+  height: 300px;
+  object-fit: cover;
+}
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;

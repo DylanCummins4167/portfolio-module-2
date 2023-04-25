@@ -15,7 +15,7 @@ p.solid {border-style: solid;}
     margin-top: 25px;
     height: 50px;
     font-size: x-large;
-    .fill {object-fit: fill;}
+    
 }
 
 .navbar-expand-lg {
@@ -29,6 +29,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+    .fill {object-fit: fill;}
 }
 /* text css above hero image*/
 .hero_title {
@@ -48,8 +49,8 @@ img {
 
 
 
-<a href="paris.jpg">
-  <img src="selfie.jpg" alt="Selfie">
+<a href="module-1-website.png">
+  <img src="module-1-website.png" alt="My First Website woth Condensed CSS!">
 </a>
 
 #contact {

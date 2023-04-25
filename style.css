@@ -25,6 +25,7 @@ p.solid {border-style: solid;}
 /* hero background image */
 img {
   .fill {object-fit: fill;}
+    position: absolute;
 }
 /* text css above hero image*/
 .hero_title {

@@ -1,4 +1,6 @@
-background color: black;
+body {
+  background-color: lightblue;
+}
 
 border: 4px inset;
 

@@ -17,9 +17,7 @@ p.solid {border-style: solid;}
     margin-top: 25px;
     height: 50px;
     font-size: x-large;
-    ul {
-   border: 2px solid blue;
-}
+   
 }
 
 a:hover {

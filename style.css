@@ -20,6 +20,11 @@ p.solid {border-style: solid;}
    
 }
 
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
 a:hover {
   background-color: green;
 }

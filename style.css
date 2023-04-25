@@ -18,6 +18,7 @@ p.solid {border-style: solid;}
     height: 50px;
     font-size: x-large;
   bachground-color: #333;
+  position: fixed;
    
 }
 

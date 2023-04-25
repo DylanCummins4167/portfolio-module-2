@@ -2,9 +2,10 @@ body {
   background-color: pink;
 }
 
-p.solid {border-style: solid;}
-
-border: 4px inset;
+border-top-width: 20px
+border-left-width: 20px
+border-right-width: 20px
+border-bottom-sidth: 20px
 
 p.solid {border-style: solid;}
 
